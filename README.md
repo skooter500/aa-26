@@ -23,10 +23,10 @@ Tuesday:
 - [Steering Behaviors]()
 
 # Essential Reading
+- https://archive.org/stream/pdfy-CVSFsGW3fYSFP1wM/McKenna%2C%20Terence%20-%20The%20Archaic%20Revival_djvu.txt - Virtual Reality and Electronic Highs (Or On Becoming Virtual Octopi) 
 - https://www.red3d.com/cwr/steer/ - The OG
 - https://www.red3d.com/cwr/boids/ - Boids
 - https://www.roadtovr.com/the-need-for-procedural-animation-in-virtual-reality-ocean-rift-developer/?amp - Procedural Animation in XR
-- 
 
 # Resources
 - [FOSSIKAL](https://github.com/skooter500/csresources/blob/main/foss_resources.md)
